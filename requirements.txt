@@ -10,4 +10,5 @@ jupyterlab
 tensor-sensor
 seaborn
 lightgbm
+gradio
 
