@@ -11,4 +11,8 @@ tensor-sensor
 seaborn
 lightgbm
 gradio
-
+gdown
+pydot
+imbalanced-learn
+nltk
+nlpaug
