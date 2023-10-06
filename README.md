@@ -23,7 +23,7 @@ En este repositorio se encuentran los desafíos realizados durante la cursada de
 - Beam Search
 - Balanceo de Dataset (OverSampling / Undersampling)
 - Data augmentation
-- Encoder - Decoder
+- Modelo Encoder-Decoder
 
 ## Librerías utilizadas
 - numpy
