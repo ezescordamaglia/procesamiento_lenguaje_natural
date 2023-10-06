@@ -3,11 +3,11 @@ Año 2023
 
 Docente: Rodrigo Cárdenas
 
-Alumno: Scordamaglia Ezequiel
+**Alumno: Scordamaglia Ezequiel**
 
 ## Presentación
 
-En este repositorio se han realizado los desafíos referidos a la materia de Procesamiento del Lenguaje Natural de la Especialización en Inteligencia Artificial.
+En este repositorio se encuentran los desafíos realizados durante la cursada de la materia Procesamiento del Lenguaje Natural de la Especialización en Inteligencia Artificial de la UBA.
 
 
 
@@ -16,7 +16,14 @@ En este repositorio se han realizado los desafíos referidos a la materia de Pro
 - Similaridad Coseno
 - Steamer / Lematizador
 - Tokenización
-  
+- Modelos de Deep Learning
+- Redes Neuronales Recurrentes
+- LSTM - GRU
+- Embeddings
+- Beam Search
+- Balanceo de Dataset (OverSampling / Undersampling)
+- Data augmentation
+- Encoder - Decoder
 
 ## Librerías utilizadas
 - numpy
@@ -29,10 +36,20 @@ En este repositorio se han realizado los desafíos referidos a la materia de Pro
 - keras
 - seaborn
 - matplotlib
+- pickle
+- pandas
+- nlpaug
+- gensim
+- gdown
 
 ## Lenguaje
 
 Python
+
+## Embeddings pre-entrenados
+- GenSim - Word2Vec
+- Glove
+- Fasttext
 
 ## Desafío 1 - Vectorización y Similaridad entre documentos:
 <img src="https://old.tacosdedatos.com/assets/detrasdelavis/004_tfidf.png" width="600" height="150">
