@@ -138,3 +138,5 @@ En este desafío se construye un Bot conversacional que responde preguntas del u
 [Link al Desafío 6 - BOT CONVERSACIONAL](https://github.com/ezescordamaglia/procesamiento_lenguaje_natural/blob/main/Desafio_6/6-%20bot_qa.ipynb)
 
 
+# Contacto
+Pueden contactarme a mi mail scordamagliaezequiel@gmail.com por cualquier duda.
